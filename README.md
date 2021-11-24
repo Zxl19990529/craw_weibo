@@ -12,3 +12,10 @@
 
 代码里可以改的地方一个是cooki，一个是uid。
 
+## 需要的package
+
+- bs4
+- openpyxl
+
+其他的python都自带。
+
